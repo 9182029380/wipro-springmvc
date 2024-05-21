@@ -26,4 +26,5 @@ public class WiproJobApplication {
     public String jobapplicationenddate;
     public String experience;
 
+
 }
